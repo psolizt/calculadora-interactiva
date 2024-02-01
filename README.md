@@ -1,4 +1,4 @@
-# 📌 Clon de Testimonios freeCodeCamp   
+# 📌 Calculadora Interactiva freeCodeCamp   
 
 ¡Hola! Esta es una aplicación desarrollada con React que representa una calculadora.
 
