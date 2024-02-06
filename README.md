@@ -2,7 +2,7 @@
 
 ¡Hola! Esta es una aplicación desarrollada con React que representa una calculadora.
 
-Esta aplicacion fue realizada segun la explicacion de [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN), en el cual se completo los retos propuestos, y validacion de errores en los calculos realizados.
+Esta aplicacion fue realizada segun la explicacion de [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN), en el cual se completo los retos propuestos, como separar el logo en un componente y validacion de errores en los calculos realizados.
 
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando `npm start` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con ```ctrl + ` ``` si tu teclado está en inglés. 

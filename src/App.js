@@ -2,9 +2,9 @@ import './App.css';
 import Button from './components/Button';
 import Clear from './components/Clear';
 import Screen from './components/Screen';
-import Logo from './images/freecodecamp-logo.png';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
+import Logo from './components/Logo';
 
 function App() {
 
@@ -46,9 +46,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='logo-container'>
-        <img src={Logo} alt="Logo de freeCodeCamp" className='logo'/>
-      </div>
+      <Logo />
       <div className='container'>
         <Screen input={input}/>
         <div className='row'>
